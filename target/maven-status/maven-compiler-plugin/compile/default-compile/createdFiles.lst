@@ -1,0 +1,15 @@
+com\jpmc\sssm\constants\IApplicationConstants.class
+com\jpmc\sssm\transaction\CreateTrade.class
+com\jpmc\sssm\domain\StockTypeEnum.class
+com\jpmc\sssm\calc\CalculateVolumeWeightedStockPrice.class
+com\jpmc\sssm\domain\TradeDirectionEnum.class
+com\jpmc\sssm\calc\CalculateDividendYield$1.class
+com\jpmc\sssm\exception\SimpleStockMarketBusinessException.class
+com\jpmc\sssm\calc\CalculateGeometricMean.class
+com\jpmc\sssm\exception\TechnicalFailureException.class
+com\jpmc\sssm\calc\CalculatePeRatio.class
+com\jpmc\sssm\domain\Trade.class
+com\jpmc\sssm\calc\ICalculateStrategy.class
+com\jpmc\sssm\domain\Stock.class
+com\jpmc\sssm\calc\CalculateContext.class
+com\jpmc\sssm\calc\CalculateDividendYield.class

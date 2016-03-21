@@ -1,0 +1,8 @@
+com\jpmc\sssm\transaction\CreateTradeTest.class
+com\jpmc\sssm\calc\SuperSimpleStockMarketTestSuite.class
+com\jpmc\sssm\domain\CreateTrades.class
+com\jpmc\sssm\calc\CalculateGeometricMeanTest.class
+com\jpmc\sssm\domain\Stocks.class
+com\jpmc\sssm\calc\CalculateDividendYieldTest.class
+com\jpmc\sssm\calc\CalculatePeRatioTest.class
+com\jpmc\sssm\calc\CalculateVolumeWeightedStockPriceTest.class
